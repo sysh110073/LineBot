@@ -1,2 +1,2 @@
-Use requests way to call LineBot API /n
+Use requests way to call LineBot API;
 Just for practicing
